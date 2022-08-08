@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Panneerselvam
 - 👀 I’m interested in  web development
 - 🌱 I’m currently learning  Information Technology
-- 💞️ 
+- 💞️ Learning #Solidity in Udemey
 - 📫 How to reach me E-mail: s.panneerselvam909@gmail.com
 <!---
 panneer07/panneer07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
